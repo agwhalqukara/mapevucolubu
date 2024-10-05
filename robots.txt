@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://mapevucolubu.pages.dev/sitemap.xml
